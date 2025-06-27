@@ -1,8 +1,8 @@
 # 30 Zig Projects
 
-## 1. Random Food Picker
+## 1. [Random Food Picker](01-random-food-picker/)
 
-## 2. File Copy Tool
+## 2. [File Copy Tool](02-file-copy-tool/)
 
 ## 3. SHA-256 File Hasher
 
