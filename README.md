@@ -4,7 +4,7 @@
 
 ## 2. [File Copy Tool](02-file-copy-tool/)
 
-## 3. SHA-256 File Hasher
+## 3. [SHA-256 File Hasher](03-sha-256-file-hasher/)
 
 ## 4. JSON Pretty Printer
 
